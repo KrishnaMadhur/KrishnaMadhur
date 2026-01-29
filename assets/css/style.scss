@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* THE HACK: Add your Background Image here */
+body {
+  background: url('https://raw.githubusercontent.com/KrishnaMadhur/KrishnaMadhur.github.io/main/assets/images/background.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #ffffff; /* Changes text to white so you can read it over a dark image */
+}
+
+/* Make links pop over the background */
+a {
+  color: #ffcc00; /* Gold color for links */
+}
