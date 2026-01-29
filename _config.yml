@@ -1,0 +1,5 @@
+title: Krishna Madhur Akella
+description: Nanotechnology & Analog IC Design
+theme: jekyll-theme-prime # This is a clean, minimalist theme
+plugins:
+  - jekyll-seo-tag
